@@ -132,3 +132,6 @@ tags
 *.vcxproj
 *.sln
 *.filters
+
+#my vs2010 project file
+/vs2010/
